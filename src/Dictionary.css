@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-size: 42px;
+}
+
+.Dictionary  h4 {
+    font-size: 24px;
+    margin: 10px;
+}
+
+.Dictionary section {
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+}
+
+.Dictionary input {
+ width: 100%;
+ padding: 8px 8px;
+ color: #333;
+ border: 1px solid #ddd;
+ border-radius: 16px;
+}
+
+.Dictionary .hint {
+    font-size: 14px;
+    margin-top: 5px;
+    color: grey;
+}

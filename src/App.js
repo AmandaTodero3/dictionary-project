@@ -11,13 +11,17 @@ function App() {
         </main>
         <div className="App-footer">
           <footer>
+            This dictionary was coded by
+            <a href="https://github.com/AmandaTodero3"> Amanda Todero </a>and
+            is&nbsp;
             <a
               href="https://github.com/AmandaTodero3/dictionary-project"
               target="_blank"
             >
-              Open-sourced
-            </a>{" "}
-            code by Amanda Todero
+              open-sourced on Github
+            </a>
+            &nbsp;and hosted on
+            <a href="https://dictionary-project-taupe.vercel.app/"> Vercel</a>
           </footer>
         </div>
       </div>
