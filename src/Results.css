@@ -1,6 +1,9 @@
-h2 {
-    text-align: center;
+.Results h2 {
     font-size: 36px;
     font-weight: bold;
-    margin: 10px;
+}
+
+.Results h5 {
+    font-size: 24px;
+    color: green;
 }
